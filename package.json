@@ -8,7 +8,7 @@
     "npm":  "7.5.4"
   },
   "scripts": {
-    "start" : "node /server/index.js"
+    "start" : "node server/index.js"
   },
   "author": "",
   "license": "ISC",
